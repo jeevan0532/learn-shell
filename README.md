@@ -12,3 +12,4 @@ hello jeevan we are going to learn shell form now onwards
  9. redirectors
  10. sed editor
 >>>>>>>>>>>>>>>>>>>>>>>
+learn printing 
